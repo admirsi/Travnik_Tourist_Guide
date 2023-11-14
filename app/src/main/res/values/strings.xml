@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Travnik Tourist Guide</string>
+    <string name="description_text">
+        Travnik is a town and a municipality in central Bosnia and Herzegovina, 90 kilometers west of Sarajevo. It is the administrative center of Central Bosnia Canton of the Federation of Bosnia and Herzegovina. It has a rich history and culture, dating back to the medieval Bosnian Kingdom and the Ottoman Empire. Travnik is also known as the birthplace of Nobel Prize-winning writer Ivo Andrić, who wrote about the town in his novels and stories.\n\n
+
+        The Old Town, which is a well-preserved fortress from the 15th century. It was the residence of the Ottoman governors (viziers) from 1699 to 1850, and it contains many historical buildings, such as mosques, tombs, clock towers, and fountains. The Old Town is located on a hill above the Plava Voda spring, which is a natural source of drinking water and a popular spot for locals and visitors\n\n
+
+
+        The Vlašić mountain, which is one of the highest and most beautiful mountains in Bosnia and Herzegovina. It is a popular destination for skiing, hiking, and tobogganing. It is also home to three endemic species: the Travnik short-beaked pigeon, the Vlašić pastoral dog Tornjak, and the Rose Brandis, a rose without thorns.\n
+
+
+        The Homeland Museum and the Ivo Andrić Birth House, which are dedicated to the preservation and presentation of the cultural and historical heritage of Travnik and its surroundings. The Homeland Museum displays various artifacts, documents, and photographs from different periods of Travnik’s history, while the Ivo Andrić Birth House is a memorial museum that showcases the life and work of the famous writer.
+    </string>
+    <string name="enter_label">Enter</string>
+    <string name="home_label">Home</string>
+    <string name="tours_label">Tours</string>
+    <string name="shop_label">Food</string>
+    <string name="tours_header_label">TOURS</string>
+    <string name="tours_content">If you are looking for some outdoor adventure, you can go to the Vlašić mountain, which is one of the highest and most beautiful mountains in Bosnia and Herzegovina. It is a popular destination for skiing, hiking, and tobogganing. It is also home to three endemic species: the Travnik short-beaked pigeon, the Vlašić pastoral dog Tornjak, and the Rose Brandis, a rose without thorns.
+        \n
+        If you want to relax and enjoy the natural beauty, you can go to the Plava Voda spring, which is a natural source of drinking water and a popular spot for locals and visitors. You can also go to the Galica lake, which is a scenic artificial lake that offers fishing, boating, and swimming opportunities.
+    </string>
+    <string name="shop_header_label">Food and Dishes</string>
+    <string name="food_image">Image of city</string>
+    <string name="product_image_label">Image of Food</string>
+    <string name="product_size_label">%d ml bottle</string>
+
+    <string name="activities_image">Image of activities</string>
+    <string name="activities_duration_label">%d hour duration</string>
+    <string name="activities_length_label">%d hour</string>
+    <string name="activities_image_label">Activities and Tours</string>
+    <string name="activities_label">Fun</string>
+    <string name="activities_header_label">ACTIVITIES</string>
+    <string name="activities_content">Travnik is a town and a municipality in central Bosnia and Herzegovina, 90 kilometers west of Sarajevo. It is the administrative center of Central Bosnia Canton of the Federation of Bosnia and Herzegovina. It has a rich history and culture, dating back to the medieval Bosnian Kingdom and the Ottoman Empire. Travnik is also known as the birthplace of Nobel Prize-winning writer Ivo Andrić, who wrote about the town in his novels and stories.\n\n</string>
+
+    <string name="events_image">Image of events</string>
+    <string name="events_duration_label">%d hour duration</string>
+    <string name="events_length_label">%d hour</string>
+    <string name="events_image_label">Calendar events</string>
+    <string name="events_label">Events</string>
+    <string name="events_header_label">EVENTS</string>
+    <string name="events_content">Travnik is a town and a municipality in central Bosnia and Herzegovina, 90 kilometers west of Sarajevo. It is the administrative center of Central Bosnia Canton of the Federation of Bosnia and Herzegovina. It has a rich history and culture, dating back to the medieval Bosnian Kingdom and the Ottoman Empire. Travnik is also known as the birthplace of Nobel Prize-winning writer Ivo Andrić, who wrote about the town in his novels and stories.\n\n</string>
+    <string name="go_to_location">Location</string>
+    <string name="location_text">Location</string>
+    <string name="address_text">Address</string>
+    <string name="type_text">Type</string>
+
+
+</resources>

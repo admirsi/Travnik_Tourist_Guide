@@ -1,0 +1,191 @@
+[
+  {
+    "foodName": "Pekara ABA",
+    "imageFile": "https://admirsi.github.io/TravnikPlaceHolder.webp",
+    "description": "Bakery with a variety of baked goods.",
+    "duration": "00-24",
+    "address": "Bosanska 117, Travnik 72270",
+    "type": "pekara",
+    "location": "44.22636514150825, 17.663354664952088"
+  },
+  {
+    "foodName": "Pekara ABA 2",
+    "imageFile": "https://admirsi.github.io/TravnikPlaceHolder.webp",
+    "description": "Another bakery with a variety of baked goods.",
+    "duration": "pon-cet(05-22:30)",
+    "address": "Bosanska 183, Travnik 72270",
+    "type": "pekara",
+    "location": "44.226188519743744, 17.668832482292736"
+  },
+  {
+    "foodName": "Pekara Kalibunar",
+    "imageFile": "https://admirsi.github.io/TravnikPlaceHolder.webp",
+    "description": "Bakery located in Kalibunar area.",
+    "duration": "pon-ned(05:30-23)",
+    "address": "Bosansk, Travnik 72270",
+    "type": "pekara",
+    "location": "44.22616182663744, 17.656756902945173"
+  },
+  {
+    "foodName": "Pekara Vlasic",
+    "imageFile": "https://admirsi.github.io/TravnikPlaceHolder.webp",
+    "description": "Bakery in Šehida, Travnik.",
+    "duration": "00-24",
+    "address": "6MG8+VCW, Šehida, Travnik 72270",
+    "type": "pekara",
+    "location": "44.227286620577466, 17.66618909374516"
+  },
+  {
+    "foodName": "Pekara Zvrko",
+    "imageFile": "https://admirsi.github.io/TravnikPlaceHolder.webp",
+    "description": "Bakery with a variety of baked goods.",
+    "duration": "00-24",
+    "address": "Kalibunar 28, Travnik 72270",
+    "type": "pekara",
+    "location": "44.23009384489074, 17.654491211907516"
+  },
+  {
+    "foodName": "Pekara ABA Travnik",
+    "imageFile": "https://admirsi.github.io/TravnikPlaceHolder.webp",
+    "description": "Bakery with a variety of baked goods.",
+    "duration": "00-24",
+    "address": "Bosanska 117, Travnik 72270",
+    "type": "pekara",
+    "location": "44.22636079154388, 17.66347587493929"
+  },
+  {
+    "foodName": "Caffe Pizzeria London",
+    "imageFile": "https://admirsi.github.io/TravnikPlaceHolder.webp",
+    "description": "Pizzeria and cafe in Bosanska 2, Travnik.",
+    "duration": "pon-ned(07-23)",
+    "address": "Bosanska 2, Travnik 72270",
+    "type": "pizzeria",
+    "location": "44.22655229650412, 17.667452644416144"
+  },
+  {
+    "foodName": "Pizzeria Cedar",
+    "imageFile": "https://admirsi.github.io/TravnikPlaceHolder.webp",
+    "description": "Pizzeria in Šehida 47, Travnik.",
+    "duration": "pon-sub(07:30-23)ned(x)",
+    "address": "Šehida 47, Travnik 72270",
+    "type": "pizzeria",
+    "location": "44.22726724307388, 17.667766784442144"
+  },
+  {
+    "foodName": "Bajra Cevabdzinica Konak",
+    "imageFile": "https://admirsi.github.io/TravnikPlaceHolder.webp",
+    "description": "Cevabdzinica with traditional Bosnian food.",
+    "duration": "pon-ned(07-23)",
+    "address": "Vezirska bb, Travnik 72270",
+    "type": "restoran",
+    "location": "44.22541822801642, 17.65991572221145"
+  },
+  {
+    "foodName": "Hari Restoran",
+    "imageFile": "https://admirsi.github.io/TravnikPlaceHolder.webp",
+    "description": "Restaurant in Donja čaršija bb, Travnik.",
+    "duration": "pon,uto,sri,cet,ned(07-22:30) pet,sub(07-23)",
+    "address": "Donja čaršija bb, Travnik 72270",
+    "type": "restoran",
+    "location": "44.22671566050786, 17.67081601891073"
+  },
+  {
+    "foodName": "Karalic Restoran",
+    "imageFile": "https://admirsi.github.io/TravnikPlaceHolder.webp",
+    "description": "Restaurant in Donja čaršija, Travnik.",
+    "duration": "pon-ned(07-22:30)",
+    "address": "Donja čaršija, Travnik",
+    "type": "restoran",
+    "location": "44.22614828526168, 17.65897525462925"
+  },
+  {
+    "foodName": "Cevabdzinica Hari",
+    "imageFile": "https://admirsi.github.io/TravnikPlaceHolder.webp",
+    "description": "Cevabdzinica in Donja čaršija bb, Travnik.",
+    "duration": "pon,uto,sri,cet,ned(07-22:30) pet,sub(07-23)",
+    "address": "Donja čaršija bb, Travnik 72270",
+    "type": "restoran",
+    "location": "44.22675427266217, 17.67093687959134"
+  },
+  {
+    "foodName": "Ascinica Plava Voda",
+    "imageFile": "https://admirsi.github.io/TravnikPlaceHolder.webp",
+    "description": "Restaurant in Travnik 72270.",
+    "duration": "pon-ned(08-22)",
+    "address": "Travnik 72270",
+    "type": "restoran",
+    "location": "44.229366703444676, 17.672295880069985"
+  },
+  {
+    "foodName": "Restoran Tarabovac",
+    "imageFile": "https://admirsi.github.io/TravnikPlaceHolder.webp",
+    "description": "Restaurant in Erika Brandisa 1, Travnik 72270.",
+    "duration": "pon-sub(07-17)ned(x)",
+    "address": "Erika Brandisa 1, Travnik 72270",
+    "type": "restoran",
+    "location": "44.22486260369005, 17.664878984703595"
+  },
+  {
+    "foodName": "Kod Seje",
+    "imageFile": "https://admirsi.github.io/TravnikPlaceHolder.webp",
+    "description": "Restaurant in Donja Carsija.",
+    "duration": "pon-sub(08-19)ned(x)",
+    "address": "Donja Carsija",
+    "type": "restoran",
+    "location": "44.226248145555154, 17.669786571995523"
+  },
+  {
+    "foodName": "Bistro Bens",
+    "imageFile": "https://admirsi.github.io/TravnikPlaceHolder.webp",
+    "description": "Bistro in Stanična, Travnik.",
+    "duration": "pon-pet(06-18)sub(06-15:30)ned(x)",
+    "address": "Stanična, Travnik",
+    "type": "restoran",
+    "location": "44.22763989517455, 17.656541533161406"
+  },
+  {
+    "foodName": "Bistro Lovac",
+    "imageFile": "https://admirsi.github.io/TravnikPlaceHolder.webp",
+    "description": "Bistro in Bosanska 54, Travnik 72270.",
+    "duration": "pon-sub(07-18)ned(x)",
+    "address": "Bosanska 54, Travnik 72270",
+    "type": "restoran",
+    "location": "44.22620164234463, 17.65833874032212"
+  },
+  {
+    "foodName": "Fast Food Seher",
+    "imageFile": "https://admirsi.github.io/TravnikPlaceHolder.webp",
+    "description": "Fast food in Kalibunar BB, Travnik 72200.",
+    "duration": "pon-sub(08-20)ned(x)",
+    "address": "Kalibunar BB, Travnik 72200",
+    "type": "restoran",
+    "location": "44.22987582416548, 17.642637137364808"
+  },
+  {
+    "foodName": "Vaha",
+    "imageFile": "https://admirsi.github.io/TravnikPlaceHolder.webp",
+    "description": "Restaurant in Bosanska bb, Travnik 72270.",
+    "duration": "pon-pet(07-22)sub-ned(09-17)",
+    "address": "Bosanska bb, Travnik 72270",
+    "type": "restoran",
+    "location": "44.226347130680445, 17.661322247439422"
+  },
+  {
+    "foodName": "Ćevabdžinica Bosna",
+    "imageFile": "https://admirsi.github.io/TravnikPlaceHolder.webp",
+    "description": "Cevabdžinica in Bosanska, Travnik 72270.",
+    "duration": "(07-22)",
+    "address": "Bosanska, Travnik 72270",
+    "type": "restoran",
+    "location": "44.226169669334084, 17.665394726361498"
+  },
+  {
+    "foodName": "Bistro Bens",
+    "imageFile": "https://admirsi.github.io/TravnikPlaceHolder.webp",
+    "description": "Bistro in Stanična, Travnik.",
+    "duration": "pon-pet(06-18)sub(06-15:30)ned(x)",
+    "address": "Stanična, Travnik",
+    "type": "restoran",
+    "location": "44.22763989517455, 17.656541533161406"
+  }
+]

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/action_home">
+
+    <fragment
+        android:id="@+id/action_home"
+        android:name="com.example.travniktourist.HomeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/action_tours"
+        android:name="com.example.travniktourist.tours.ToursFragment"
+        android:label="fragment_tours"
+        tools:layout="@layout/fragment_tours" />
+
+    <fragment
+        android:id="@+id/action_events"
+        android:name="com.example.travniktourist.events.EventsFragment"
+        android:label="fragment_events"
+        tools:layout="@layout/fragment_events" >
+        <action
+            android:id="@+id/action_action_events_to_detailEventsFragment"
+            app:destination="@id/detailEventsFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/detailEventsFragment"
+        android:name="com.example.travniktourist.events.DetailEventsFragment"
+        android:label="fragment_events_detail"
+        tools:layout="@layout/fragment_events_detail" />
+
+    <fragment
+        android:id="@+id/action_activities"
+        android:name="com.example.travniktourist.activities.ActivitiesFragment"
+        android:label="fragment_activities"
+        tools:layout="@layout/fragment_activities" >
+        <action
+            android:id="@+id/action_activitiesFragment_to_detailActivitiesFragment"
+            app:destination="@id/detailActivitiesFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/detailActivitiesFragment"
+        android:name="com.example.travniktourist.activities.DetailActivitiesFragment"
+        android:label="DetailActivitiesFragment"
+        tools:layout="@layout/fragment_activities_detail" />
+
+    <fragment
+        android:id="@+id/action_shop"
+        android:name="com.example.travniktourist.products.ShopFragment"
+        android:label="fragment_shop"
+        tools:layout="@layout/fragment_shop" >
+        <action
+            android:id="@+id/action_shopFragment_to_detailFragment"
+            app:destination="@id/detailFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/detailFragment"
+        android:name="com.example.travniktourist.products.DetailFragment"
+        android:label="fragment_detail"
+        tools:layout="@layout/fragment_detail" />
+
+    <activity
+        android:id="@+id/mainActivity"
+        android:name="com.example.travniktourist.MainActivity"
+        android:label="content_scrolling"
+        tools:layout="@layout/content_scrolling" />
+
+
+</navigation>
